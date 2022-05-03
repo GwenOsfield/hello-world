@@ -6,3 +6,6 @@
 **now im trying out how to use markdown to make stuff look good.**
 
 I can link mums website like this [JuliaOsfieldYoga](https://juliaosfieldyoga.com/).
+
+LInk to [OpenSceneGraph](http://www.openscenegraph.org)
+LInk to [VulkanSceneGraph](http://www.vulkanscenegraph.org)
