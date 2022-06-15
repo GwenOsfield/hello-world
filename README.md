@@ -10,3 +10,5 @@
 Link to [OpenSceneGraph](http://www.openscenegraph.org)
 
 Link to [VulkanSceneGraph](http://www.vulkanscenegraph.org)
+
+![open scene graph logo](https://avatars.githubusercontent.com/u/213099?v=4)
