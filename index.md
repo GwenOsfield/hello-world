@@ -5,4 +5,5 @@ layout: standard
 
 # Home
 
-heres what the company does
+## Hey Dad!
+Why dont you check out the next page
