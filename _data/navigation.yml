@@ -1,0 +1,5 @@
+- name: Home
+  link: /
+  
+- name: Page2
+  link: /Page2.html
