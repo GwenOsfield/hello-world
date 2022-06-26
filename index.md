@@ -1,5 +1,6 @@
 ---
-title: heres me trying out liquid
+title: home
+layout: standard
 ---
 <h1>{{page.title | upcase}}</h1>
 # Home
