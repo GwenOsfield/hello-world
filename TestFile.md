@@ -1,5 +1,6 @@
 ---
-title: testing the theme
+title: test
+layout: standard
 ---
 <h1>{{page.title | upcase}}</h1>
 
